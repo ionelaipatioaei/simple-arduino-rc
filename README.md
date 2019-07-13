@@ -2,8 +2,8 @@
 ### Basic code to get you up and running with a nRF24L01 module
 
 Steps:
-1. Connect the module to the arduino, it's the same for both receiver and trasmitter
-![nRF24L01 pin layout][https://i.imgur.com/eJK4UGG.png]
+1. Connect the module to the arduino, it's the same for both receiver and trasmitter:
+![nRF24L01 pin layout](https://i.imgur.com/eJK4UGG.png)
 
 2. Download and install the RF24 library: https://github.com/nRF24/RF24
 Documenation: http://tmrh20.github.io/RF24/classRF24.html

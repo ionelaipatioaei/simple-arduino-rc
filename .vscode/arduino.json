@@ -1,5 +1,0 @@
-{
-    "programmer": "AVRISP mkII",
-    "board": "WAV:avr:lardu_328p",
-    "port": "COM8"
-}

@@ -1,3 +1,5 @@
+// Download and include the RF24 library: https://github.com/nRF24/RF24
+// Documenation here: http://tmrh20.github.io/RF24/classRF24.html 
 #include <SPI.h>
 #include <nRF24L01.h>
 #include <RF24.h>
